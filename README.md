@@ -4,12 +4,17 @@
 
 # Usage
 >> help
+
 to see all command
 >> status
+
 to view all setting
 >> show -t
+
 to show all running(run slower but less error)
 >> show -f
+
 show only the thing you want(easy to see but easy to error too)(default is False)
 >> status
+
 to see all setting
