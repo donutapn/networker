@@ -3,13 +3,13 @@
 - For Education
 
 # Usage
->>help
+>> help
 to see all command
->>status
+>> status
 to view all setting
->>show -t
+>> show -t
 to show all running(run slower but less error)
->>show -f
+>> show -f
 show only the thing you want(easy to see but easy to error too)(default is False)
->>status
+>> status
 to see all setting
