@@ -18,3 +18,9 @@ show only the thing you want(easy to see but easy to error too)(default is False
 >> status
 
 to see all setting
+- First Step
+>> url http://example.com/
+
+The first,you should set URL
+- View page source
+>> src
